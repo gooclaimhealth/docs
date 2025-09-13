@@ -97,11 +97,4 @@ POST /v1/appeals → Generates evidence-backed appeal letters
 Each API returns structured JSON with confidence scores, explanations, and audit logs.
 ```
 
-Next Steps
 
-🔗 Integrations
- — Connect with Epic, Cerner, Athena via FHIR
-📚 API Reference
- — Full endpoint list
-🛡️ Compliance
- — HIPAA & SOC-2 foundations
