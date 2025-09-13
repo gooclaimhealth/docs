@@ -1,4 +1,5 @@
-# 🧠 Gooclaim Developer Platform
+
+# <img width="403" height="403" alt="Gooclaim_Logo" src="https://github.com/user-attachments/assets/7a1c1dea-e278-4fac-8307-1171a366d237" /> Gooclaim Developer Platform
 **AI Autopilot for Healthcare Revenue**  
 Eliminating claim denials and revenue leakage through intelligent automation.
 
