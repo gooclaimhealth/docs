@@ -9,7 +9,7 @@ This guide helps you run your first workflow with our **RCM Automation REST APIs
 Gooclaim is currently available to **pilot partners and EHR integrations**.  
 To begin testing:  
 - Email **support@gooclaim.com**  
-- Our team will provide **sandbox credentials** (API key or service account).  
+- Our team will provide **sandbox credentials**  (API key or service account).  
 
 ---
 
