@@ -97,15 +97,16 @@ POST /v1/appeals → Generates evidence-backed appeal letters
 Each API returns structured JSON with confidence scores, explanations, and audit logs.
 ```
 
-##### 5️⃣ Next Steps
+## 5️⃣ Next Steps
 
 - [🔗 Integrations](./integrations.md)  
-  Connect with Epic, Cerner, Athena via FHIR  
+  In progress — Gooclaim is actively building integrations with Epic, Cerner, and Athena via FHIR.  
 
 - [📚 API Reference](./api-reference.md)  
-  Full endpoint list  
+  Explore the full list of available endpoints.  
 
 - [🛡️ Compliance](./compliance.md)  
-  HIPAA & SOC-2 foundations  
+  HIPAA & SOC-2 foundations in place (certifications in progress).  
+
 
 
