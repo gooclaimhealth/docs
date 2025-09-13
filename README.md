@@ -44,11 +44,10 @@ Supported resources include:
 ---
 
 ## 🛡️ Compliance & Security
-Gooclaim is built compliance-first:
-- HIPAA & SOC-2 aligned  
+- HIPAA & SOC-2 foundations in place (certifications in progress)  
 - PHI encryption (TLS 1.2+ in transit, AES-256 at rest)  
-- Full audit logging & redaction pipeline  
-- Role-based access control  
+- Audit logging & PHI redaction pipeline under implementation  
+- Role-based access control (RBAC) in development  
 
 ---
 
@@ -62,9 +61,9 @@ When hospitals eliminate administrative waste, they recover revenue faster and f
 ---
 
 ## 🤝 Get Started
-1. Generate an API key from the [Gooclaim Console](https://gooclaim.com)  
-2. Try your first [Quickstart API call](./quickstart.md)  
-3. Explore [Integrations](./integrations.md) with your EHR  
+1. **Request access** → Contact us at support@gooclaim.com to set up a pilot or sandbox environment.  
+2. **Run your first workflow** → We’ll provide secure API credentials for testing in our sandbox.  
+3. **Explore integrations** → Work with us to connect Gooclaim with your EHR (Epic, Cerner, Athena, or custom FHIR endpoints).  
 
 ---
 
