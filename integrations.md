@@ -48,10 +48,13 @@ These resources allow us to:
 ---
 
 ## 🚀 Roadmap
-- **2026 (Q1 Pilot Phase):** Validate Epic, Cerner, Athena integrations with select partners  
-- **2027:** Expand to additional EHRs and clearinghouses  
-- **Beyond:** Deliver a unified API for multi-EHR support  
 
+| Year        | Milestone                                                     | Status        |
+|-------------|---------------------------------------------------------------|---------------|
+| **2026 (Q1)** | Pilot phase: Validate integrations with **Epic, Cerner, Athena** (select partners) | 🟡 In Progress |
+| **2027**    | Expand support to additional **EHR platforms and clearinghouses** | ⏳ Planned    |
+| **Future**  | Deliver a **unified API** for seamless multi-EHR connectivity | 🔮 Vision     |
+ 
 ---
 
 ## 🤝 Partner With Us
