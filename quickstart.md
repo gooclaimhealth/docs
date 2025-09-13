@@ -77,7 +77,7 @@ print(response.json())
 
 ```
 
-### Other REST APIs
+### 4️⃣ Other REST APIs
 
 Once you’ve tested Coding, try additional endpoints:
 
@@ -96,5 +96,16 @@ POST /v1/appeals → Generates evidence-backed appeal letters
 ```bash
 Each API returns structured JSON with confidence scores, explanations, and audit logs.
 ```
+
+##### 5️⃣ Next Steps
+
+- [🔗 Integrations](./integrations.md)  
+  Connect with Epic, Cerner, Athena via FHIR  
+
+- [📚 API Reference](./api-reference.md)  
+  Full endpoint list  
+
+- [🛡️ Compliance](./compliance.md)  
+  HIPAA & SOC-2 foundations  
 
 
