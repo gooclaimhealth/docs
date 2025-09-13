@@ -10,8 +10,8 @@
 * [EHR & FHIR Integrations](integrations.md)
 
 ## Guides & Use Cases
-* [Use Cases](use-cases/README.md)
+* [Use Cases](use-cases.md)
 
 ## Security
 * [Security & Compliance](compliance.md)
-* [Trust & Security Overview](trust-security.md)
+* [Trust & Security Overview](trustandsecurity.md)
