@@ -1,0 +1,17 @@
+root: ./
+
+structure:
+  readme: README.md
+  summary: 
+    - title: ⚡ Quickstart
+      file: quickstart.md
+    - title: 📚 API Reference
+      file: api-reference.md
+    - title: 🔗 EHR & FHIR Integrations
+      file: integrations.md
+    - title: 🛡️ Security & Compliance
+      file: compliance.md
+    - title: 🔐 Trust & Security Overview
+      file: trustandsecurity.md
+    - title: 📊 Use Cases
+      file: use-cases.md
