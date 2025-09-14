@@ -181,7 +181,9 @@ Payload
 
 Every API call maps to a Temporal Workflow with workflowId + runId.
 
-Use GET /v1/workflows/{workflowId} to query status if webhooks are unavailable.
-
+Use 
+```bash
+GET /v1/workflows/{workflowId} to query status if webhooks are unavailable.
+```
 All executions are logged for compliance and audit trails.
 
