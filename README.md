@@ -69,4 +69,4 @@ When hospitals eliminate administrative waste, they recover revenue faster and f
 ---
 
 📧 **Support:** support@gooclaim.com  
-🌐 **Docs:** [docs.gooclaim.com](https://docs.gooclaim.com)  
+🌐 **Docs:** [documentation.gooclaim.com](https://documentation.gooclaim.com)  
